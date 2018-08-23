@@ -1,5 +1,5 @@
 /**
- * Author: Andrew Cheever
+ * Author: Andrew Cheever, Tucker Sjomeling
  *Date: 2018/8/23
  *
  *Hack1
